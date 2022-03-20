@@ -1,0 +1,23 @@
+{
+    "content_json": {
+        "amazing": "Amazing",
+        "tours": "Tours",
+        "adventures": "Adventures",
+        "flights": "Flights",
+        "hotels": "Hotels",
+        "fun": "Fun",
+        "people": "People",
+        "waiting_for_you": "Waiting For You",
+        "section_one_header": "Section One Header",
+        "section_one_info": "Section One Info",
+        "section_two_header": "Section Two Header",
+        "section_two_info": "Section Two Info",
+        "section_three_header": "Section Three Header",
+        "section_three_info": "Section Three Info",
+        "powered_by_signmanage_group": "Powered By Signmanage Group",
+        "banner_first_header": "Banner First Header",
+        "banner_second_header": "Banner Second Header",
+        "banner_link_url": "Banner Link Url",
+        "banner_link_text": "Banner Link Text"
+    }
+}

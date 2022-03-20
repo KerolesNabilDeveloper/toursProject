@@ -1,0 +1,20 @@
+{
+    "content_json": {
+        "social_link": "social link",
+        "img_ids": [],
+        "title": [
+            "Facebook",
+            "twitter"
+        ],
+        "icon": [
+            "fa fa-facebook",
+            "fa fa-twitter",
+            ""
+        ],
+        "link": [
+            "www.facebook.com",
+            "https:\/\/twitter.com",
+            ""
+        ]
+    }
+}

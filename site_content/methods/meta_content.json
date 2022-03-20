@@ -1,0 +1,21 @@
+{
+    "method_name": "meta_content",
+    "method_requirments": {
+        "input_fields": {
+            "fields": [
+                "index_meta_title",
+                "index_meta_desc",
+                "index_meta_keywords",
+                "contact_meta_title",
+                "contact_meta_desc",
+                "contact_meta_keywords"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

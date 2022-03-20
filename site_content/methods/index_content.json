@@ -1,0 +1,45 @@
+{
+    "method_name": "index_content",
+    "method_requirments": {
+        "input_fields": {
+            "fields": [
+                "What_Do_You_Know_About_US",
+                "What_Do_You_Know_About_US_body_1",
+                "What_Do_You_Know_About_US_body_2",
+                "video_popup_img",
+                "Need_Our_Help_For_Packages_title",
+                "Need_Our_Help_For_Packages_body",
+                "Popular_Tours_Now_title",
+                "Popular_Tours_Now_body",
+                "Book_and_Travel_with_Confidence_title",
+                "Book_and_Travel_with_Confidence_body",
+                "video_popup_link",
+                "what_our_clients_say_title",
+                "what_our_clients_say_body",
+                "Need_Our_Help_For_Packages_link",
+                "home"
+            ],
+            "customize": {
+                "class": {
+                    "What_Do_You_Know_About_US": "What_Do_You_Know_About_US",
+                    "What_Do_You_Know_About_US_body_1": "ckeditor",
+                    "What_Do_You_Know_About_US_body_2": "What_Do_You_Know_About_US_body_2"
+                }
+            }
+        },
+        "imgs_fields": {
+            "fields": [
+                "video_popup_img",
+                "video_popup_img_2",
+                "banner_home_img",
+                "need_our_help_img"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

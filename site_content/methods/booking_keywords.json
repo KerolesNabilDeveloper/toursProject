@@ -1,0 +1,17 @@
+{
+    "method_name": "booking_keywords",
+    "method_requirments": {
+        "input_fields": {
+            "fields": [
+                "we_recieved_your_request_successfuly",
+                "we_received_your_request_successfully"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

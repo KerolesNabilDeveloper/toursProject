@@ -1,0 +1,26 @@
+{
+    "method_name": "authentication",
+    "method_requirments": {
+        "imgs_fields": {
+            "fields": [
+                "login_img"
+            ],
+            "customize": {}
+        },
+        "input_fields": {
+            "fields": [
+                "login",
+                "enter_email_address",
+                "enter_email_password",
+                "forget_password",
+                "invalid_email_or_password"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

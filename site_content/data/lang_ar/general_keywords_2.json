@@ -1,0 +1,38 @@
+{
+    "content_json": {
+        "welcome": "asda das  asda a Welcome",
+        "img_ids": {
+            "welcome_img": {
+                "alt": "2",
+                "title": "1",
+                "path": "site_content\/data\/lang_ar\/general_keywords_2\/71cfcd6b1f9d83f1134140c0a83b7aa1.jpg"
+            }
+        },
+        "slider1": {
+            "img_ids": [
+                {
+                    "id": 1,
+                    "path": "site_content\/data\/lang_ar\/general_keywords_2\/2d5bf647d490be739993243af423c0dc.png",
+                    "alt": "4",
+                    "title": "3"
+                },
+                {
+                    "id": 2,
+                    "path": "site_content\/data\/lang_ar\/general_keywords_2\/0e4b88c4beb741dee99a866a98fa5256.png",
+                    "alt": "8",
+                    "title": "7"
+                }
+            ],
+            "other_fields": {
+                "item_title": [
+                    "5",
+                    "9"
+                ],
+                "item_sub_title": [
+                    "6",
+                    "10"
+                ]
+            }
+        }
+    }
+}

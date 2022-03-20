@@ -1,0 +1,31 @@
+{
+    "content_json": {
+        "What_Do_You_Know_About_US": "What Do You Know About US",
+        "What_Do_You_Know_About_US_body_1": "<p><span style=\"color: rgb(102, 102, 102); font-family: Poppins, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Whether you&rsquo;re a luxury-oriented tourist or a hardened explorer, we have the professional experience, local contacts, and passion to make this an unforgettable and transformative journey. Creating custom, luxury tours that take you above and beyond a prepackaged experience is what we have been doing for our travelers since 2003. It is no wonder we only have five-star ratings on TripAdvisor.<\/span><\/p>",
+        "What_Do_You_Know_About_US_body_2": "Camel rides by the Pyramids & cruises alongside ancient temples? We’ve got those. Sunrise at the Sphinx & sunset by the Citadel? That’s one of our classic days out in Cairo. Desert excursions & stargazing in the mountains? Get ready for an unforgettable journey.",
+        "video_popup_img": "Video Popup Img",
+        "img_ids": {
+            "video_popup_img": {
+                "alt": "",
+                "title": "",
+                "path": ""
+            },
+            "video_popup_img_2": {
+                "alt": "",
+                "title": "",
+                "path": ""
+            }
+        },
+        "Need_Our_Help_For_Packages_title": "Need Our Help For Packages Title",
+        "Need_Our_Help_For_Packages_body": "Need Our Help For Packages Body",
+        "Popular_Tours_Now_title": "Popular Tours Now Title",
+        "Popular_Tours_Now_body": "Popular Tours Now Body",
+        "Book_and_Travel_with_Confidence_title": "Book And Travel With Confidence Title",
+        "Book_and_Travel_with_Confidence_body": "Book And Travel With Confidence Body",
+        "video_popup_link": "Video Popup Link",
+        "what_our_clients_say_title": "What Our Clients Say Title",
+        "what_our_clients_say_body": "What Our Clients Say Body",
+        "Need_Our_Help_For_Packages_link": "Need Our Help For Packages Link",
+        "home": "Home"
+    }
+}

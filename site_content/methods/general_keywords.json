@@ -1,0 +1,83 @@
+{
+    "method_name": "general_keywords",
+    "method_requirments": {
+        "input_fields": {
+            "fields": [
+                "email",
+                "password",
+                "login",
+                "you_should_enter_your_full_name_as_3_names",
+                "are_your_sure",
+                "yes",
+                "no",
+                "login_field_is_required",
+                "password_is_required",
+                "welcome",
+                "support",
+                "Special Offer",
+                "phone",
+                "Reed_More",
+                "pageview",
+                "home",
+                "description",
+                "included",
+                "excluded",
+                "itinerary",
+                "tourdetails",
+                "startsfrom",
+                "startingfrom",
+                "about-au",
+                "tour-duration",
+                "Day",
+                "location",
+                "Newsletter",
+                "Newsletter_title",
+                "Subscribe",
+                "booknow",
+                "USD",
+                "relatedtours",
+                "BookingTrip",
+                "about-Us",
+                "SpecialOffer",
+                "special_offer",
+                "book_now",
+                "starting_from",
+                "news_letter",
+                "news_letter_title",
+                "name",
+                "number",
+                "message",
+                "send_message",
+                "page_view",
+                "tour_details",
+                "starts_from",
+                "tour_duration",
+                "booking_trip",
+                "related_tours",
+                "Name",
+                "Departing",
+                "Returning",
+                "booking",
+                "name_placeholder",
+                "email_placeholder",
+                "phone_placeholder",
+                "departing_placeholder",
+                "returning_placeholder",
+                "booking_placeholder",
+                "type_placeholder"
+            ],
+            "customize": {}
+        },
+        "imgs_fields": {
+            "fields": [
+                "support_img"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

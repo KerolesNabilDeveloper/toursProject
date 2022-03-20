@@ -1,0 +1,25 @@
+{
+    "method_name": "gallery_homepage",
+    "method_requirments": {
+        "slider_fields": {
+            "fields": [
+                "slider1"
+            ],
+            "customize": {
+                "slider1": {
+                    "label_name": "gallery_homepage",
+                    "accept": "",
+                    "need_alt_title": "",
+                    "additional_inputs_arr": "img_title,slider_title,slider_alt",
+                    "width": "1920",
+                    "height": "1048"
+                }
+            }
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

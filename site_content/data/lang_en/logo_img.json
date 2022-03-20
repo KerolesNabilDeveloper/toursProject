@@ -1,0 +1,12 @@
+{
+    "content_json": {
+        "img_ids": {
+            "logo": {
+                "alt": "logo",
+                "title": "logo",
+                "path": "site_content\/data\/lang_en\/logo_img\/037730275d6cce76ce2deb6ca46f8296.png"
+            }
+        },
+        "logo": "Logo"
+    }
+}

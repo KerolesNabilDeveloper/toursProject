@@ -1,0 +1,33 @@
+{
+    "method_name": "contact_content",
+    "method_requirments": {
+        "imgs_fields": {
+            "fields": [
+                "img_cover"
+            ],
+            "customize": {}
+        },
+        "input_fields": {
+            "fields": [
+                "Contact_us",
+                "get_in_touch!",
+                "get_in_touch_body",
+                "main_information",
+                "location",
+                "text_of_time_work",
+                "email",
+                "sell_phone",
+                "sell_phone_number",
+                "telephone",
+                "telephone_number",
+                "we_received_your_request_successfully"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "content_json": {
+        "img_ids": [],
+        "slider1": {
+            "img_ids": [
+                {
+                    "id": 1,
+                    "path": "site_content\/data\/lang_ar\/testimonial_gallery\/1c3c365c123651aea066105166a18813.png",
+                    "alt": "Omnis assumenda est",
+                    "title": "Rem ut molestias lab"
+                },
+                {
+                    "id": 2,
+                    "path": "site_content\/data\/lang_ar\/testimonial_gallery\/e8e65309a7275bf9e90a4e8ed5f86971.png",
+                    "alt": "Magna sed ea est des",
+                    "title": "Esse culpa sed volu"
+                },
+                {
+                    "id": 3,
+                    "path": "site_content\/data\/lang_ar\/testimonial_gallery\/c34160273ed04238c329c77100c4b542.png",
+                    "alt": "Qui anim lorem dolor",
+                    "title": "Dolor in voluptas el"
+                },
+                {
+                    "id": 4,
+                    "path": "site_content\/data\/lang_ar\/testimonial_gallery\/e2d3969a2e204933ebf0ffbb42f537ec.png",
+                    "alt": "Omnis minus nisi arc",
+                    "title": "Voluptatem voluptas"
+                },
+                {
+                    "id": 5,
+                    "path": "site_content\/data\/lang_ar\/testimonial_gallery\/00ee11c428608eb2e3a5ddeb74eaffe9.png",
+                    "alt": "Nesciunt ea in ex t",
+                    "title": "Consequuntur volupta"
+                },
+                {
+                    "id": 6,
+                    "path": "site_content\/data\/lang_ar\/testimonial_gallery\/d86c9411dd2803a808693fd87532ae8d.png",
+                    "alt": "Minus id est repudi",
+                    "title": "Est officiis laboris"
+                }
+            ],
+            "other_fields": {
+                "text_content": [
+                    "Cum magnam minima co",
+                    "Omnis illo minus nis",
+                    "Consectetur aut dol",
+                    "Aut cupidatat ut do",
+                    "Odio doloremque nihi",
+                    "Et dolor anim ea ame",
+                    ""
+                ],
+                "name": [
+                    "Omnis ea mollitia au",
+                    "Sint consequatur t",
+                    "Sapiente ratione ad",
+                    "Voluptate laboris qu",
+                    "Rerum laborum sit la",
+                    "Est id cumque ipsa",
+                    ""
+                ],
+                "title": [
+                    "Est hic quis volupta",
+                    "Aut sit ullamco et",
+                    "Reprehenderit possi",
+                    "Fugiat natus amet e",
+                    "Quo animi est nisi",
+                    "Animi et commodi vo",
+                    ""
+                ]
+            }
+        }
+    }
+}

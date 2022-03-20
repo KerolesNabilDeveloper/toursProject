@@ -1,0 +1,240 @@
+country_code,country_continent,country_eu,country_currency,country_phone_code,country_name_en,country_name_ru,country_name_de,country_name_ua,country_name_fr,country_name_ar,country_name_he,country_name_hu,country_name_pl,country_name_cz,country_name_sk,country_name_cn,country_name_ro,country_name_tr
+AD,1,0,EUR,376,Andorra,Андорра,Andorra,NULL,NULL,NULL,NULL,Andorra,NULL,NULL,NULL,NULL,NULL,NULL
+AE,2,0,AED,971,United Arab Emirates,ОАЭ,Vereinigte Arabische Emirate,NULL,NULL,NULL,NULL,Egyesült Arab Emirátusok,NULL,NULL,NULL,NULL,NULL,NULL
+AF,2,0,AFN,93,Afghanistan,Афганистан,Afghanistan,NULL,NULL,NULL,NULL,Afganisztán,NULL,NULL,NULL,NULL,NULL,NULL
+AG,6,0,XCD,1268,Antigua,Антигуа,Antigua Und Barbuda,NULL,NULL,NULL,NULL,Antigua,NULL,NULL,NULL,NULL,NULL,NULL
+AI,6,0,XCD,1264,Anguilla,Ангуилла,Anguilla,NULL,NULL,NULL,NULL,Anguilla,NULL,NULL,NULL,NULL,NULL,NULL
+AL,1,0,ALL,355,Albania,Албания,Albanien,NULL,NULL,NULL,NULL,Albánia,NULL,NULL,NULL,NULL,NULL,NULL
+AM,1,0,AMD,374,Armenia,Армения,Armenien,NULL,NULL,NULL,NULL,Örményország,NULL,NULL,NULL,NULL,NULL,NULL
+AN,6,0,ANG,599,Netherlands Antilles,Нидерландские Антилы,Netherlands Antilles,NULL,NULL,NULL,NULL,Netherlands Antilles,NULL,NULL,NULL,NULL,NULL,NULL
+AO,4,0,AOA,244,Angola,Ангола,Angola,NULL,NULL,NULL,NULL,Angola,NULL,NULL,NULL,NULL,NULL,NULL
+AR,7,0,ARS,54,Argentina,Аргентина,Argentinien,NULL,NULL,NULL,NULL,Argentína,NULL,NULL,NULL,NULL,NULL,NULL
+AS,8,0,USD,1684,"Samoa, American",Американское Самоа,Amerikanisch-Samoa,NULL,NULL,NULL,NULL,Amerikai Szamoa,NULL,NULL,NULL,NULL,NULL,NULL
+AT,1,1,EUR,43,Austria,Австрия,Österreich,NULL,NULL,NULL,NULL,Ausztria,NULL,NULL,NULL,NULL,NULL,NULL
+AU,8,0,AUD,61,Australia,Австралия,Australien,NULL,NULL,NULL,NULL,Ausztrália,NULL,NULL,NULL,NULL,NULL,NULL
+AW,6,0,AWG,297,Aruba,Аруба,Aruba,NULL,NULL,NULL,NULL,Aruba,NULL,NULL,NULL,NULL,NULL,NULL
+AZ,3,0,AZM,994,Azerbaijan,Азербайджан,Aserbaidschan,NULL,NULL,NULL,NULL,Azerbajdzsán,NULL,NULL,NULL,NULL,NULL,NULL
+BA,1,0,BAM,387,Bosnia Herzegovina,Босния Герцеговина,Bosnien Und Herzegowina,NULL,NULL,NULL,NULL,Bosznia Hercegovina,NULL,NULL,NULL,NULL,NULL,NULL
+BB,6,0,BBD,1246,Barbados,Барбадос,Barbados,NULL,NULL,NULL,NULL,Barbados,NULL,NULL,NULL,NULL,NULL,NULL
+BD,3,0,BDT,880,Bangladesh,Бангладеш,Bangladesch,NULL,NULL,NULL,NULL,Banglades,NULL,NULL,NULL,NULL,NULL,NULL
+BE,1,1,EUR,32,Belgium,Бельгия,Belgien,NULL,NULL,NULL,NULL,Belgium,NULL,NULL,NULL,NULL,NULL,NULL
+BF,4,0,XOF,226,Burkina Faso,Буркина-Фасо,Burkina Faso,NULL,NULL,NULL,NULL,Burkina Faso,NULL,NULL,NULL,NULL,NULL,NULL
+BG,1,1,BGN,359,Bulgaria,Болгария,Bulgarien,NULL,NULL,NULL,NULL,Bulgária,NULL,NULL,NULL,NULL,NULL,NULL
+BH,2,0,BHD,973,Bahrain,Бахрейн,Bahrain,NULL,NULL,NULL,NULL,Bahrein,NULL,NULL,NULL,NULL,NULL,NULL
+BI,4,0,BIF,257,Burundi,Бурунди,Burundi,NULL,NULL,NULL,NULL,Burundi,NULL,NULL,NULL,NULL,NULL,NULL
+BJ,4,0,XOF,229,Benin,Бенин,Benin,NULL,NULL,NULL,NULL,Benin,NULL,NULL,NULL,NULL,NULL,NULL
+BL,0,0,,0,Saint Barthelemy,Остров Святого Бартоломея,St. Barthélemy,NULL,NULL,NULL,NULL,Saint Barthélemy,NULL,NULL,NULL,NULL,NULL,NULL
+BM,5,0,BMD,1441,Bermuda,Бермуда,Bermuda,NULL,NULL,NULL,NULL,Bermuda,NULL,NULL,NULL,NULL,NULL,NULL
+BN,3,0,BND,673,Brunei Darussalam,Бруней Даруссалам,Brunei Darussalam,NULL,NULL,NULL,NULL,Brunei Darussalam,NULL,NULL,NULL,NULL,NULL,NULL
+BO,7,0,BOB,591,Bolivia,Боливия,Bolivien,NULL,NULL,NULL,NULL,Bolívia,NULL,NULL,NULL,NULL,NULL,NULL
+BQ,0,0,,0,Bonaire,"Бонайре, Синт-Эстатиус И Саба","Bonaire, Sint Eustatius Und Saba",NULL,NULL,NULL,NULL,"Bonaire, Sint Eustatius Valamint Saba",NULL,NULL,NULL,NULL,NULL,NULL
+BR,7,0,BRL,55,Brazil,Бразилия,Brasilien,NULL,NULL,NULL,NULL,Brazília,NULL,NULL,NULL,NULL,NULL,NULL
+BS,6,0,BSD,1242,Bahamas,Багамы,Bahamas,NULL,NULL,NULL,NULL,Bahama szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+BT,3,0,INR,975,Bhutan,Бутан,Bhutan,NULL,NULL,NULL,NULL,Buthán,NULL,NULL,NULL,NULL,NULL,NULL
+BV,1,0,NOK,0,Bouvet Island,Остров Буве,Bouvetinsel,NULL,NULL,NULL,NULL,Bouvet-Sziget,NULL,NULL,NULL,NULL,NULL,NULL
+BW,4,0,BWP,267,Botswana,Ботсвана,Botsuana,NULL,NULL,NULL,NULL,Botswana,NULL,NULL,NULL,NULL,NULL,NULL
+BY,1,0,BYR,375,Belarus,Беларусь,Belarus,NULL,NULL,NULL,NULL,Fehéroroszország,NULL,NULL,NULL,NULL,NULL,NULL
+BZ,6,0,BZD,501,Belize,Белиз,Belize,NULL,NULL,NULL,NULL,Belize,NULL,NULL,NULL,NULL,NULL,NULL
+CA,5,0,CAD,1,Canada,Канада,Kanada,NULL,NULL,NULL,NULL,Kanada,NULL,NULL,NULL,NULL,NULL,NULL
+CC,8,0,AUD,61,Cocos Islands,Кокосовые О-ва,Kokosinseln,NULL,NULL,NULL,NULL,Cocos Islands,NULL,NULL,NULL,NULL,NULL,NULL
+CD,4,0,CDF,243,"Congo, The Democratic Republic Of The",Демократическая Республика Конго,Demokratische Republik Kongo,NULL,NULL,NULL,NULL,Kongói Demokratikus Köztársaság,NULL,NULL,NULL,NULL,NULL,NULL
+CF,4,0,XAF,236,Central African Republic,ЦАР,Zentralafrikanische Republik,NULL,NULL,NULL,NULL,Közép-afrikai Köztársaság,NULL,NULL,NULL,NULL,NULL,NULL
+CG,4,0,XAF,242,Congo,Конго,Kongo,NULL,NULL,NULL,NULL,Kongó,NULL,NULL,NULL,NULL,NULL,NULL
+CH,1,0,CHF,41,Switzerland,Швейцария,Schweiz,NULL,NULL,NULL,NULL,Svájc,NULL,NULL,NULL,NULL,NULL,NULL
+CI,4,0,XOF,225,Ivory Coast,Кот-Д Ивуар,Côte D’Ivoire,NULL,NULL,NULL,NULL,Elefántcsontpart,NULL,NULL,NULL,NULL,NULL,NULL
+CK,6,0,NZD,682,Cook Islands,Острова Кука,Cookinseln,NULL,NULL,NULL,NULL,Cook szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+CL,7,0,CLP,56,Chile,Чили,Chile,NULL,NULL,NULL,NULL,Chile,NULL,NULL,NULL,NULL,NULL,NULL
+CM,4,0,XAF,237,Cameroon,Камерун,Kamerun,NULL,NULL,NULL,NULL,Kamerun,NULL,NULL,NULL,NULL,NULL,NULL
+CN,3,0,CNY,86,China,Китай,China,NULL,NULL,NULL,NULL,Kína,NULL,NULL,NULL,NULL,NULL,NULL
+CO,7,0,COP,57,Colombia,Колумбия,Kolumbien,NULL,NULL,NULL,NULL,Kolumbia,NULL,NULL,NULL,NULL,NULL,NULL
+CR,7,0,CRC,506,Costa Rica,Коста Рика,Costa Rica,NULL,NULL,NULL,NULL,Costa Rica,NULL,NULL,NULL,NULL,NULL,NULL
+CS,1,0,CSD,0,Serbia And Montenegro,Сербия и Черногория,Serbia And Montenegro,NULL,NULL,NULL,NULL,Szerbia és Montenegró,NULL,NULL,NULL,NULL,NULL,NULL
+CU,6,0,CUP,53,Cuba,Куба,Kuba,NULL,NULL,NULL,NULL,Kuba,NULL,NULL,NULL,NULL,NULL,NULL
+CV,4,0,CVE,238,"Cape Verde, Republic Of",Кейп Верде,Kap Verde,NULL,NULL,NULL,NULL,Cape Verde - Republic Of,NULL,NULL,NULL,NULL,NULL,NULL
+CW,0,0,,0,Curacao,Кюрасао,Curaçao,NULL,NULL,NULL,NULL,Curaçao,NULL,NULL,NULL,NULL,NULL,NULL
+CX,3,0,AUD,61,Christmas Island,О-в Рождества,Weihnachtsinsel,NULL,NULL,NULL,NULL,Karácsony-szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+CY,1,1,CYP,357,Cyprus,Кипр,Zypern,NULL,NULL,NULL,NULL,Ciprus,NULL,NULL,NULL,NULL,NULL,NULL
+CZ,1,1,CZK,420,Czech Republic,Чешская Республика,Tschechische Republik,NULL,NULL,NULL,NULL,Csehország,NULL,NULL,NULL,NULL,NULL,NULL
+DE,1,1,EUR,49,Germany,Германия,Deutschland,NULL,NULL,NULL,NULL,Németország,NULL,NULL,NULL,NULL,NULL,NULL
+DJ,4,0,DJF,253,Djibouti,Джибути,Dschibuti,NULL,NULL,NULL,NULL,Dzsibuti,NULL,NULL,NULL,NULL,NULL,NULL
+DK,1,1,DKK,45,Denmark,Дания,Dänemark,NULL,NULL,NULL,NULL,Dánia,NULL,NULL,NULL,NULL,NULL,NULL
+DM,6,0,XCD,1767,Dominica,Доминика,Dominica,NULL,NULL,NULL,NULL,Dominikai Közösség,NULL,NULL,NULL,NULL,NULL,NULL
+DO,6,0,DOP,1809,Dominican Republic,Доминиканская Республика,Dominikanische Republik,NULL,NULL,NULL,NULL,Dominikai Köztársaság,NULL,NULL,NULL,NULL,NULL,NULL
+DZ,4,0,DZD,213,Algeria,Алжир,Algerien,NULL,NULL,NULL,NULL,Algéria,NULL,NULL,NULL,NULL,NULL,NULL
+EC,7,0,USD,593,Ecuador,Эквадор,Ecuador,NULL,NULL,NULL,NULL,Ekvádor,NULL,NULL,NULL,NULL,NULL,NULL
+EE,1,1,EEK,372,Estonia,Эстония,Estland,NULL,NULL,NULL,NULL,Észtország,NULL,NULL,NULL,NULL,NULL,NULL
+EG,4,0,EGP,20,Egypt,Египет,Ägypten,NULL,NULL,NULL,NULL,Egyiptom,NULL,NULL,NULL,NULL,NULL,NULL
+EH,4,0,MAD,0,Western Sahara,Западная Сахара,Westsahara,NULL,NULL,NULL,NULL,Western Sahara,NULL,NULL,NULL,NULL,NULL,NULL
+ER,4,0,ETB,291,Eritrea,Эритрия,Eritrea,NULL,NULL,NULL,NULL,Eritrea,NULL,NULL,NULL,NULL,NULL,NULL
+ES,1,1,EUR,34,Spain,Испания,Spanien,NULL,NULL,NULL,NULL,Spanyolország,NULL,NULL,NULL,NULL,NULL,NULL
+ET,4,0,ETB,251,Ethiopia,Эфиопия,Äthiopien,NULL,NULL,NULL,NULL,Etiópia,NULL,NULL,NULL,NULL,NULL,NULL
+FI,1,1,EUR,358,Finland,Финляндия,Finnland,NULL,NULL,NULL,NULL,Finnország,NULL,NULL,NULL,NULL,NULL,NULL
+FJ,8,0,FJD,679,Fiji,Фиджи,Fidschi,NULL,NULL,NULL,NULL,Fidzsi szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+FK,7,0,GBP,500,Falkland Islands,Фолклендские О-ва,Falklandinseln,NULL,NULL,NULL,NULL,Falkland-szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+FM,8,0,USD,691,Micronesia,Микронезия,Mikronesien,NULL,NULL,NULL,NULL,Micronézia,NULL,NULL,NULL,NULL,NULL,NULL
+FO,1,0,DKK,298,Faeroe Islands,Фарерские О-ва,Färöer,NULL,NULL,NULL,NULL,Feröer-szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+FR,1,1,EUR,33,France,Франция,Frankreich,NULL,NULL,NULL,NULL,Franciaország,NULL,NULL,NULL,NULL,NULL,NULL
+GA,4,0,XAF,241,Gabon,Габон,Gabun,NULL,NULL,NULL,NULL,Gabon,NULL,NULL,NULL,NULL,NULL,NULL
+GB,1,1,GBP,44,United Kingdom,Великобритания,Vereinigtes Königreich,NULL,NULL,NULL,NULL,Egyesült Királyság,NULL,NULL,NULL,NULL,NULL,NULL
+GD,6,0,XCD,1473,Grenada,Гренада,Grenada,NULL,NULL,NULL,NULL,Grenada,NULL,NULL,NULL,NULL,NULL,NULL
+GE,1,0,GEL,995,Georgia,Грузия,Georgien,NULL,NULL,NULL,NULL,Grúzia,NULL,NULL,NULL,NULL,NULL,NULL
+GF,4,0,EUR,0,French Guiana,Французская Гвинея,Französisch-Guayana,NULL,NULL,NULL,NULL,Francia Guinea,NULL,NULL,NULL,NULL,NULL,NULL
+GH,4,0,GHC,233,Ghana,Гана,Ghana,NULL,NULL,NULL,NULL,Ghána,NULL,NULL,NULL,NULL,NULL,NULL
+GI,1,0,GIP,350,Gibraltar,Гибралтар,Gibraltar,NULL,NULL,NULL,NULL,Gibraltár,NULL,NULL,NULL,NULL,NULL,NULL
+GL,1,0,DKK,299,Greenland,Гринландия,Grönland,NULL,NULL,NULL,NULL,Grönland,NULL,NULL,NULL,NULL,NULL,NULL
+GM,4,0,GMD,220,Gambia,Гамбия,Gambia,NULL,NULL,NULL,NULL,Gambia,NULL,NULL,NULL,NULL,NULL,NULL
+GN,4,0,GNF,224,Guinea,Гвинея,Guinea,NULL,NULL,NULL,NULL,Guinea,NULL,NULL,NULL,NULL,NULL,NULL
+GP,6,0,EUR,0,Guadeloupe,Гваделупа,Guadeloupe,NULL,NULL,NULL,NULL,Guadeloupe,NULL,NULL,NULL,NULL,NULL,NULL
+GQ,4,0,XAF,240,Equatorial Guinea,Экваториальная Гвинея,Äquatorialguinea,NULL,NULL,NULL,NULL,Egyenlítõi Guinea,NULL,NULL,NULL,NULL,NULL,NULL
+GR,1,1,EUR,30,Greece,Греция,Griechenland,NULL,NULL,NULL,NULL,Görögország,NULL,NULL,NULL,NULL,NULL,NULL
+GT,7,0,GTQ,502,Guatemala,Гуатемала,Guatemala,NULL,NULL,NULL,NULL,Guatemala,NULL,NULL,NULL,NULL,NULL,NULL
+GU,8,0,USD,1671,Guam,Гуам,Guam,NULL,NULL,NULL,NULL,Guam,NULL,NULL,NULL,NULL,NULL,NULL
+GW,4,0,GWP,245,Guinea Bissau,Гвинея Биссау,Guinea-Bissau,NULL,NULL,NULL,NULL,Guinea Bissau,NULL,NULL,NULL,NULL,NULL,NULL
+GY,4,0,GYD,592,Guyana,Гайана,Guyana,NULL,NULL,NULL,NULL,Guyana,NULL,NULL,NULL,NULL,NULL,NULL
+HK,3,0,HKD,852,Hong Kong,Гонконг,Sonderverwaltungszone Hongkong,NULL,NULL,NULL,NULL,Hong Kong,NULL,NULL,NULL,NULL,NULL,NULL
+HN,6,0,HNL,504,Honduras,Гондурас,Honduras,NULL,NULL,NULL,NULL,Honduras,NULL,NULL,NULL,NULL,NULL,NULL
+HR,1,0,HRK,385,Croatia,Хорватия,Kroatien,NULL,NULL,NULL,NULL,Horvátország,NULL,NULL,NULL,NULL,NULL,NULL
+HT,6,0,HTG,509,Haiti,Гаити,Haiti,NULL,NULL,NULL,NULL,Haiti,NULL,NULL,NULL,NULL,NULL,NULL
+HU,1,1,HUF,36,Hungary,Венгрия,Ungarn,NULL,NULL,NULL,NULL,Magyarország,NULL,NULL,NULL,NULL,NULL,NULL
+ID,3,0,IDR,62,Indonesia,Индонезия,Indonesien,NULL,NULL,NULL,NULL,Indonézia,NULL,NULL,NULL,NULL,NULL,NULL
+IE,1,1,EUR,353,Ireland (Republic of),Ирландия (Республика),Irland,NULL,NULL,NULL,NULL,Ír Köztársaság,NULL,NULL,NULL,NULL,NULL,NULL
+IL,1,0,ILS,972,Israel,Израиль,Israel,NULL,NULL,NULL,NULL,Izrael,NULL,NULL,NULL,NULL,NULL,NULL
+IN,3,0,INR,91,India,Индия,Indien,NULL,NULL,NULL,NULL,India,NULL,NULL,NULL,NULL,NULL,NULL
+IQ,2,0,IQD,964,Iraq,Ирак,Irak,NULL,NULL,NULL,NULL,Iraq,NULL,NULL,NULL,NULL,NULL,NULL
+IR,2,0,IRR,98,Iran,Иран,Iran,NULL,NULL,NULL,NULL,Irán,NULL,NULL,NULL,NULL,NULL,NULL
+IS,1,0,ISK,354,Iceland,Исландия,Island,NULL,NULL,NULL,NULL,Izland,NULL,NULL,NULL,NULL,NULL,NULL
+IT,1,1,EUR,39,Italy,Италия,Italien,NULL,NULL,NULL,NULL,Olaszország,NULL,NULL,NULL,NULL,NULL,NULL
+JM,6,0,JMD,1876,Jamaica,Ямайка,Jamaika,NULL,NULL,NULL,NULL,Jamaica,NULL,NULL,NULL,NULL,NULL,NULL
+JO,2,0,JOD,962,Jordan,Иордания,Jordanien,NULL,NULL,NULL,NULL,Jordánia,NULL,NULL,NULL,NULL,NULL,NULL
+JP,3,0,JPY,81,Japan,Япония,Japan,NULL,NULL,NULL,NULL,Japán,NULL,NULL,NULL,NULL,NULL,NULL
+KE,4,0,KES,254,Kenya,Кения,Kenia,NULL,NULL,NULL,NULL,Kenya,NULL,NULL,NULL,NULL,NULL,NULL
+KG,3,0,KGS,996,Kyrgyzstan,Киргизстан,Kirgisistan,NULL,NULL,NULL,NULL,Kirgisztán,NULL,NULL,NULL,NULL,NULL,NULL
+KH,3,0,KHR,855,Cambodia,Камбоджа,Kambodscha,NULL,NULL,NULL,NULL,Kambodzsa,NULL,NULL,NULL,NULL,NULL,NULL
+KI,8,0,AUD,686,Kiribati,Кирибати,Kiribati,NULL,NULL,NULL,NULL,Kiribati,NULL,NULL,NULL,NULL,NULL,NULL
+KM,4,0,KMF,269,Comoros,Коморские О-ва,Komoren,NULL,NULL,NULL,NULL,Comoros,NULL,NULL,NULL,NULL,NULL,NULL
+KN,6,0,XCD,1869,St Kitts and Nevis,Сент Киттс и Невис,St. Kitts Und Nevis,NULL,NULL,NULL,NULL,St Kitts and Nevis,NULL,NULL,NULL,NULL,NULL,NULL
+KP,3,0,KPW,850,North Korea,Северная Корея,Demokratische Volksrepublik Korea,NULL,NULL,NULL,NULL,Észak-Korea,NULL,NULL,NULL,NULL,NULL,NULL
+KR,3,0,KRW,82,South Korea,Южная Корея,Republik Korea,NULL,NULL,NULL,NULL,Dél-Korea,NULL,NULL,NULL,NULL,NULL,NULL
+KW,2,0,KWD,965,Kuwait,Кувейт,Kuwait,NULL,NULL,NULL,NULL,Kuwait,NULL,NULL,NULL,NULL,NULL,NULL
+KY,6,0,KYD,1345,Cayman Islands,Каймановы Острова,Kaimaninseln,NULL,NULL,NULL,NULL,Kajmán szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+KZ,3,0,KZT,7,Kazakhstan,Казахстан,Kasachstan,NULL,NULL,NULL,NULL,Kazahsztán,NULL,NULL,NULL,NULL,NULL,NULL
+LA,3,0,LAK,856,Laos,Лаос,Laos,NULL,NULL,NULL,NULL,Laos,NULL,NULL,NULL,NULL,NULL,NULL
+LB,2,0,LBP,961,Lebanon,Ливан,Libanon,NULL,NULL,NULL,NULL,Libanon,NULL,NULL,NULL,NULL,NULL,NULL
+LC,6,0,XCD,1758,St Lucia,Санта Лючия,St. Lucia,NULL,NULL,NULL,NULL,St Lucia,NULL,NULL,NULL,NULL,NULL,NULL
+LI,1,0,CHF,423,Liechtenstein,Лихтенштейн,Liechtenstein,NULL,NULL,NULL,NULL,Liechtenstein,NULL,NULL,NULL,NULL,NULL,NULL
+LK,3,0,LKR,94,Sri Lanka,Шри Ланка,Sri Lanka,NULL,NULL,NULL,NULL,Sri Lanka,NULL,NULL,NULL,NULL,NULL,NULL
+LR,4,0,LRD,231,Liberia,Либерия,Liberia,NULL,NULL,NULL,NULL,Libéria,NULL,NULL,NULL,NULL,NULL,NULL
+LS,4,0,LSL,266,Lesotho,Лесото,Lesotho,NULL,NULL,NULL,NULL,Lesotho,NULL,NULL,NULL,NULL,NULL,NULL
+LT,1,1,LTL,370,Lithuania,Литва,Litauen,NULL,NULL,NULL,NULL,Litvánia,NULL,NULL,NULL,NULL,NULL,NULL
+LU,1,1,EUR,352,Luxembourg,Люксембург,Luxemburg,NULL,NULL,NULL,NULL,Luxemburg,NULL,NULL,NULL,NULL,NULL,NULL
+LV,1,1,LVL,371,Latvia,Латвия,Lettland,NULL,NULL,NULL,NULL,Lettország,NULL,NULL,NULL,NULL,NULL,NULL
+LY,4,0,LYD,218,Libya,Ливия,Libyen,NULL,NULL,NULL,NULL,Líbia,NULL,NULL,NULL,NULL,NULL,NULL
+MA,4,0,MAD,212,Morocco,Марокко,Marokko,NULL,NULL,NULL,NULL,Marokkó,NULL,NULL,NULL,NULL,NULL,NULL
+MC,1,0,EUR,377,Monaco,Монако,Monaco,NULL,NULL,NULL,NULL,Monaco,NULL,NULL,NULL,NULL,NULL,NULL
+MD,1,0,MDL,373,Moldova,Молдова,Republik Moldau,NULL,NULL,NULL,NULL,Moldávia,NULL,NULL,NULL,NULL,NULL,NULL
+ME,0,0,,382,Montenegro,Черногория,Montenegro,NULL,NULL,NULL,NULL,Montenegro,NULL,NULL,NULL,NULL,NULL,NULL
+MF,0,0,,1599,San Martin (F),Сан Мартин (Франция),St. Martin,NULL,NULL,NULL,NULL,San Martin (F),NULL,NULL,NULL,NULL,NULL,NULL
+MG,4,0,MGA,261,Madagascar (Malagasy),Мадагаскар,Madagaskar,NULL,NULL,NULL,NULL,Madagaszkár,NULL,NULL,NULL,NULL,NULL,NULL
+MH,8,0,USD,692,Marshall Islands,Маршалловы О-ва,Marshallinseln,NULL,NULL,NULL,NULL,Marshall-szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+MK,1,0,MKD,389,Macedonia,Македония,Mazedonien,NULL,NULL,NULL,NULL,Makedónia,NULL,NULL,NULL,NULL,NULL,NULL
+ML,4,0,XOF,223,Mali,Мали,Mali,NULL,NULL,NULL,NULL,Mali,NULL,NULL,NULL,NULL,NULL,NULL
+MM,3,0,MMK,95,Myanmar,Мьянма,Myanmar,NULL,NULL,NULL,NULL,Myanmar,NULL,NULL,NULL,NULL,NULL,NULL
+MN,3,0,RUR,976,Mongolia,Монголия,Mongolei,NULL,NULL,NULL,NULL,Mongólia,NULL,NULL,NULL,NULL,NULL,NULL
+MO,3,0,MOP,853,Macau,Макау,Sonderverwaltungszone Macao,NULL,NULL,NULL,NULL,Macau,NULL,NULL,NULL,NULL,NULL,NULL
+MP,8,0,USD,1670,Northern Mariana Island,Северные Марианские острова,Nördliche Marianen,NULL,NULL,NULL,NULL,Észak Mariana Sziget,NULL,NULL,NULL,NULL,NULL,NULL
+MQ,6,0,EUR,0,Martinique,Мартиника,Martinique,NULL,NULL,NULL,NULL,Martinique,NULL,NULL,NULL,NULL,NULL,NULL
+MR,4,0,MRO,222,Mauritania,Мавритания,Mauretanien,NULL,NULL,NULL,NULL,Mauritánia,NULL,NULL,NULL,NULL,NULL,NULL
+MS,6,0,XCD,1664,Montserrat,Монтсеррат,Montserrat,NULL,NULL,NULL,NULL,Montserrat,NULL,NULL,NULL,NULL,NULL,NULL
+MT,1,1,MTL,356,Malta,Мальта,Malta,NULL,NULL,NULL,NULL,Málta,NULL,NULL,NULL,NULL,NULL,NULL
+MU,4,0,MUR,230,Mauritius,Маврикий,Mauritius,NULL,NULL,NULL,NULL,Mauríciusz,NULL,NULL,NULL,NULL,NULL,NULL
+MV,3,0,MVR,960,Maldives,Мальдивы,Malediven,NULL,NULL,NULL,NULL,Maldív szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+MW,4,0,MWK,265,Malawi,Малави,Malawi,NULL,NULL,NULL,NULL,Malawi,NULL,NULL,NULL,NULL,NULL,NULL
+MX,6,0,MXN,52,Mexico,Мексика,Mexiko,NULL,NULL,NULL,NULL,Mexikó,NULL,NULL,NULL,NULL,NULL,NULL
+MY,3,0,MYR,60,Malaysia,Малайзия,Malaysia,NULL,NULL,NULL,NULL,Malájzia,NULL,NULL,NULL,NULL,NULL,NULL
+MZ,4,0,MZM,258,Mozambique,Мозамбик,Mosambik,NULL,NULL,NULL,NULL,Mozambik,NULL,NULL,NULL,NULL,NULL,NULL
+NA,4,0,NAD,264,Namibia,Намибия,Namibia,NULL,NULL,NULL,NULL,Namibia,NULL,NULL,NULL,NULL,NULL,NULL
+NC,8,0,XPF,687,New Caledonia,Новая Каледония,Neukaledonien,NULL,NULL,NULL,NULL,Új Kaledónia,NULL,NULL,NULL,NULL,NULL,NULL
+NE,4,0,XOF,227,Niger,Нигер,Niger,NULL,NULL,NULL,NULL,Niger,NULL,NULL,NULL,NULL,NULL,NULL
+NF,8,0,USD,672,Norfolk Island,Остров Норфолк,Norfolkinsel,NULL,NULL,NULL,NULL,Norfolk Island,NULL,NULL,NULL,NULL,NULL,NULL
+NG,4,0,NGN,234,Nigeria,Нигерия,Nigeria,NULL,NULL,NULL,NULL,Nigéria,NULL,NULL,NULL,NULL,NULL,NULL
+NI,6,0,NIO,505,Nicaragua,Никарагуа,Nikaragua,NULL,NULL,NULL,NULL,Nicaragua,NULL,NULL,NULL,NULL,NULL,NULL
+NL,1,1,EUR,31,Netherlands,Нидерланды,Niederlande,NULL,NULL,NULL,NULL,Hollandia,NULL,NULL,NULL,NULL,NULL,NULL
+NO,1,0,NOK,47,Norway,Норвегия,Norwegen,NULL,NULL,NULL,NULL,Norvégia,NULL,NULL,NULL,NULL,NULL,NULL
+NP,3,0,NPR,977,Nepal,Непал,Nepal,NULL,NULL,NULL,NULL,Nepál,NULL,NULL,NULL,NULL,NULL,NULL
+NR,8,0,AUD,674,Nauru,Науру,Nauru,NULL,NULL,NULL,NULL,Nauru,NULL,NULL,NULL,NULL,NULL,NULL
+NU,8,0,PGK,683,Niue,Ниуе,Niue,NULL,NULL,NULL,NULL,Niue,NULL,NULL,NULL,NULL,NULL,NULL
+NZ,8,0,NZD,64,New Zealand,Новая Зеландия,Neuseeland,NULL,NULL,NULL,NULL,Új-Zéland,NULL,NULL,NULL,NULL,NULL,NULL
+OM,2,0,OMR,968,Oman,Оман,Oman,NULL,NULL,NULL,NULL,Omán,NULL,NULL,NULL,NULL,NULL,NULL
+PA,6,0,PAB,507,Panama,Панама,Panama,NULL,NULL,NULL,NULL,Panama,NULL,NULL,NULL,NULL,NULL,NULL
+PE,7,0,PEN,51,Peru,Перу,Peru,NULL,NULL,NULL,NULL,Peru,NULL,NULL,NULL,NULL,NULL,NULL
+PF,8,0,XPF,689,French Polynesia,Французская Полинезия,Französisch-Polynesien,NULL,NULL,NULL,NULL,Francia Polinézia,NULL,NULL,NULL,NULL,NULL,NULL
+PG,8,0,PGK,675,Papua New Guinea (Niugini),Папуа-Новая Гвинея,Papua-Neuguinea,NULL,NULL,NULL,NULL,Pápua Új-guinea,NULL,NULL,NULL,NULL,NULL,NULL
+PH,3,0,PHP,63,Philippines,Филиппины,Philippinen,NULL,NULL,NULL,NULL,Fülöp-szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+PK,3,0,PKR,92,Pakistan,Пакистан,Pakistan,NULL,NULL,NULL,NULL,Pakisztán,NULL,NULL,NULL,NULL,NULL,NULL
+PL,1,1,PLN,48,Poland,Польша,Polen,NULL,NULL,NULL,NULL,Lengyelország,NULL,NULL,NULL,NULL,NULL,NULL
+PM,5,0,EUR,508,St. Pierre & Miquelon,Сент-Пьер и Микелон,St. Pierre Und Miquelon,NULL,NULL,NULL,NULL,Szent Pierre és Miquelon,NULL,NULL,NULL,NULL,NULL,NULL
+PR,0,0,,1,Puerto Rico,Пуэрто Рико,Puerto Rico,NULL,NULL,NULL,NULL,Puerto Rico,NULL,NULL,NULL,NULL,NULL,NULL
+PS,2,0,PSZ,0,Occupied Palestinian Territory,Палестина,Palästinensische Gebiete,NULL,NULL,NULL,NULL,Palesztin Terület,NULL,NULL,NULL,NULL,NULL,NULL
+PT,1,1,EUR,351,Portugal,Португалия,Portugal,NULL,NULL,NULL,NULL,Portugália,NULL,NULL,NULL,NULL,NULL,NULL
+PW,8,0,USD,680,Palau,Палау,Palau,NULL,NULL,NULL,NULL,Palau,NULL,NULL,NULL,NULL,NULL,NULL
+PY,7,0,PYG,595,Paraguay,Парагвай,Paraguay,NULL,NULL,NULL,NULL,Paraguay,NULL,NULL,NULL,NULL,NULL,NULL
+QA,2,0,QAR,974,Qatar,Катар,Katar,NULL,NULL,NULL,NULL,Qatar,NULL,NULL,NULL,NULL,NULL,NULL
+RE,4,0,EUR,0,Reunion,Реунион,Réunion,NULL,NULL,NULL,NULL,Reunion-szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+RO,1,1,ROL,40,Romania,Румыния,Rumänien,NULL,NULL,NULL,NULL,Románia,NULL,NULL,NULL,NULL,NULL,NULL
+RS,0,0,,381,Serbia,Сербия,Serbien,NULL,NULL,NULL,NULL,Szerbia,NULL,NULL,NULL,NULL,NULL,NULL
+RU,1,0,RUB,7,Russia,Россия,Russische Föderation,NULL,NULL,NULL,NULL,Oroszország,NULL,NULL,NULL,NULL,NULL,NULL
+RW,4,0,RWF,250,Rwanda,Руанда,Ruanda,NULL,NULL,NULL,NULL,Ruanda,NULL,NULL,NULL,NULL,NULL,NULL
+SA,2,0,SAR,966,Saudi Arabia,Саудовская Аравия,Saudi-Arabien,NULL,NULL,NULL,NULL,Szaúd-Arábia,NULL,NULL,NULL,NULL,NULL,NULL
+SB,8,0,SBD,677,Solomon Islands,Соломоновы О-ва,Salomonen,NULL,NULL,NULL,NULL,Salamon-szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+SC,4,0,SCR,248,Seychelles,Сейшельские острова,Seychellen,NULL,NULL,NULL,NULL,Seychelle szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+SD,4,0,SDP,249,Sudan,Судан,Sudan,NULL,NULL,NULL,NULL,Szudán,NULL,NULL,NULL,NULL,NULL,NULL
+SE,1,1,SEK,46,Sweden,Швеция,Schweden,NULL,NULL,NULL,NULL,Svédország,NULL,NULL,NULL,NULL,NULL,NULL
+SG,3,0,SGD,65,Singapore,Сингапур,Singapur,NULL,NULL,NULL,NULL,Szingapúr,NULL,NULL,NULL,NULL,NULL,NULL
+SH,4,0,GBP,290,Saint Barthelemy,Сент Бартелеми,St. Helena,NULL,NULL,NULL,NULL,Saint Barthelemy,NULL,NULL,NULL,NULL,NULL,NULL
+SI,1,1,SIT,386,Slovenia,Словения,Slowenien,NULL,NULL,NULL,NULL,Szlovénia,NULL,NULL,NULL,NULL,NULL,NULL
+SJ,1,0,NOK,0,Svalbard And Jan Mayen Is,Свальбард И Ян-Майен,Svalbard Und Jan Mayen,NULL,NULL,NULL,NULL,Svalbard És Jan Mayen,NULL,NULL,NULL,NULL,NULL,NULL
+SK,1,1,SKK,421,Slovakia,Словакия,Slowakei,NULL,NULL,NULL,NULL,Szlovákia,NULL,NULL,NULL,NULL,NULL,NULL
+SL,4,0,SLL,232,Sierra Leone,Сьерра-Леоне,Sierra Leone,NULL,NULL,NULL,NULL,Sierra Leone,NULL,NULL,NULL,NULL,NULL,NULL
+SM,1,0,EUR,378,San Marino (Republic of),Сан-Марино(Республика),San Marino,NULL,NULL,NULL,NULL,San Marino (Republic of),NULL,NULL,NULL,NULL,NULL,NULL
+SN,4,0,XOF,221,Senegal,Сенегал,Senegal,NULL,NULL,NULL,NULL,Szenegál,NULL,NULL,NULL,NULL,NULL,NULL
+SO,4,0,SIT,252,Somalia,Сомали,Somalia,NULL,NULL,NULL,NULL,Szomália,NULL,NULL,NULL,NULL,NULL,NULL
+SR,7,0,SRD,597,Suriname,Суринам,Suriname,NULL,NULL,NULL,NULL,Suriname,NULL,NULL,NULL,NULL,NULL,NULL
+ST,4,0,STD,239,Sao Tome & Principe,Сан-Томе и Принсипи,São Tomé Und Príncipe,NULL,NULL,NULL,NULL,Sao Tomé és Princípe,NULL,NULL,NULL,NULL,NULL,NULL
+SV,6,0,SVC,503,El Salvador,Эль-Сальвадор,El Salvador,NULL,NULL,NULL,NULL,Salvador,NULL,NULL,NULL,NULL,NULL,NULL
+SY,2,0,SYP,963,Syria,Сирия,Syrien,NULL,NULL,NULL,NULL,Szíria,NULL,NULL,NULL,NULL,NULL,NULL
+SZ,4,0,SZL,268,Swaziland,Свазиленд,Swasiland,NULL,NULL,NULL,NULL,Swaziland,NULL,NULL,NULL,NULL,NULL,NULL
+TC,6,0,USD,1649,Turks & Caicos Island,Острова Туркс и Кайкос,Turks- Und Caicosinseln,NULL,NULL,NULL,NULL,Turks & Caicos Island,NULL,NULL,NULL,NULL,NULL,NULL
+TD,4,0,XAF,235,Chad,Чад,Tschad,NULL,NULL,NULL,NULL,Csád,NULL,NULL,NULL,NULL,NULL,NULL
+TG,4,0,XOF,228,Togo,Того,Togo,NULL,NULL,NULL,NULL,Togo,NULL,NULL,NULL,NULL,NULL,NULL
+TH,3,0,THB,66,Thailand,Тайланд,Thailand,NULL,NULL,NULL,NULL,Thaiföld,NULL,NULL,NULL,NULL,NULL,NULL
+TJ,3,0,TJS,992,Tadjikistan,Таджикистан,Tadschikistan,NULL,NULL,NULL,NULL,Tadzsikisztán,NULL,NULL,NULL,NULL,NULL,NULL
+TL,3,0,IDR,670,Timor Leste,Восточный Тимор,Osttimor,NULL,NULL,NULL,NULL,Kelet-Timor,NULL,NULL,NULL,NULL,NULL,NULL
+TM,3,0,TMM,993,Turkmenistan,Туркменистан,Turkmenistan,NULL,NULL,NULL,NULL,Türkmenisztán,NULL,NULL,NULL,NULL,NULL,NULL
+TN,4,0,TND,216,Tunisia,Тунис,Tunesien,NULL,NULL,NULL,NULL,Tunézia,NULL,NULL,NULL,NULL,NULL,NULL
+TO,8,0,TOP,676,Tonga,Тонга,Tonga,NULL,NULL,NULL,NULL,Tonga,NULL,NULL,NULL,NULL,NULL,NULL
+TR,1,0,TRY,90,Turkey,Турция,Türkei,NULL,NULL,NULL,NULL,Törökország,NULL,NULL,NULL,NULL,NULL,NULL
+TT,6,0,TTD,1868,Trinidad & Tobago,Тринидад и Тобаго,Trinidad Und Tobago,NULL,NULL,NULL,NULL,Trinidad és Tobago,NULL,NULL,NULL,NULL,NULL,NULL
+TV,8,0,AUD,688,Tuvalu,Тувалу,Tuvalu,NULL,NULL,NULL,NULL,Tuvalu,NULL,NULL,NULL,NULL,NULL,NULL
+TW,3,0,TWD,886,Taiwan,Тайвань,Taiwan,NULL,NULL,NULL,NULL,Taiwan,NULL,NULL,NULL,NULL,NULL,NULL
+TZ,4,0,TZS,255,Tanzania,Танзания,Tansania,NULL,NULL,NULL,NULL,Tanzánia,NULL,NULL,NULL,NULL,NULL,NULL
+UA,1,0,UAH,380,Ukraine,Украина,Ukraine,NULL,NULL,NULL,NULL,Ukrajna,NULL,NULL,NULL,NULL,NULL,NULL
+UG,4,0,UGX,256,Uganda,Уганда,Uganda,NULL,NULL,NULL,NULL,Uganda,NULL,NULL,NULL,NULL,NULL,NULL
+UM,5,0,USD,0,United States Minor Outlying Islnds,Малые О-ва США,Amerikanisch-Ozeanien,NULL,NULL,NULL,NULL,U.S. Minor Outlying Szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+US,5,0,USD,1,United States,США,Vereinigte Staaten,NULL,NULL,NULL,NULL,USA,NULL,NULL,NULL,NULL,NULL,NULL
+UY,7,0,UYU,598,Uruguay,Уругвай,Uruguay,NULL,NULL,NULL,NULL,Uruguay,NULL,NULL,NULL,NULL,NULL,NULL
+UZ,3,0,UZS,998,Uzbekistan,Узбекистан,Usbekistan,NULL,NULL,NULL,NULL,Üzbekisztán,NULL,NULL,NULL,NULL,NULL,NULL
+VA,1,0,EUR,39,Vatican City State,Ватикан,Vatikanstadt,NULL,NULL,NULL,NULL,Vatikán,NULL,NULL,NULL,NULL,NULL,NULL
+VC,6,0,XCD,1784,St Vincent & Grenadines,Сент Висент и Гренадины,St. Vincent Und Die Grenadinen,NULL,NULL,NULL,NULL,St Vincent & Grenadines,NULL,NULL,NULL,NULL,NULL,NULL
+VE,7,0,VEB,58,Venezuela,Венесуэла,Venezuela,NULL,NULL,NULL,NULL,Venezuela,NULL,NULL,NULL,NULL,NULL,NULL
+VG,6,0,USD,1284,British Virgin Islands,Британские Острова Девы,Britische Jungferninseln,NULL,NULL,NULL,NULL,British Virgin Islands,NULL,NULL,NULL,NULL,NULL,NULL
+VI,0,0,,1340,Virgin Islands (USA),Острова Девы (США),Amerikanische Jungferninseln,NULL,NULL,NULL,NULL,Virgin Islands (USA),NULL,NULL,NULL,NULL,NULL,NULL
+VN,3,0,VND,84,Vietnam,Вьетнам,,NULL,NULL,NULL,NULL,Vietnám,NULL,NULL,NULL,NULL,NULL,NULL
+VU,8,0,VUV,678,Vanuatu,Вануату,Vanuatu,NULL,NULL,NULL,NULL,Vanuatu,NULL,NULL,NULL,NULL,NULL,NULL
+WF,8,0,USD,681,Wallis & Futuna Islands,Уоллис и Футуна О-ва,Wallis Und Futuna,NULL,NULL,NULL,NULL,Wallis és Futuna Szigetek,NULL,NULL,NULL,NULL,NULL,NULL
+WS,8,0,WST,685,Samoa,Самоа,Samoa,NULL,NULL,NULL,NULL,Samoa,NULL,NULL,NULL,NULL,NULL,NULL
+XK,0,0,,0,Kosovo,Косово и Метохия,Kosovo,NULL,NULL,NULL,NULL,Koszovó,NULL,NULL,NULL,NULL,NULL,NULL
+YE,2,0,YER,967,Yemen Republic,Йеменская Республика,Jemen,NULL,NULL,NULL,NULL,Jemeni Köztársaság,NULL,NULL,NULL,NULL,NULL,NULL
+YT,4,0,EUR,262,Mayotte,Майотта,Mayotte,NULL,NULL,NULL,NULL,Mayotte,NULL,NULL,NULL,NULL,NULL,NULL
+ZA,4,0,ZAR,27,South Africa,Южная Африка,Südafrika,NULL,NULL,NULL,NULL,Dél-Afrika,NULL,NULL,NULL,NULL,NULL,NULL
+ZM,4,0,ZMK,260,Zambia,Замбия,Sambia,NULL,NULL,NULL,NULL,Zambia,NULL,NULL,NULL,NULL,NULL,NULL
+ZW,4,0,ZWD,263,Zimbabwe,Зимбабве,Simbabwe,NULL,NULL,NULL,NULL,Zimbabwe,NULL,NULL,NULL,NULL,NULL,NULL

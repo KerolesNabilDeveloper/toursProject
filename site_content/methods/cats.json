@@ -1,0 +1,16 @@
+{
+    "method_name": "cats",
+    "method_requirments": {
+        "input_fields": {
+            "fields": [
+                "cats_found"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

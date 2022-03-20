@@ -1,0 +1,55 @@
+{
+    "content_json": {
+        "img_ids": [],
+        "slider1": {
+            "img_ids": [
+                {
+                    "id": 1,
+                    "path": "site_content\/data\/lang_ar\/partiners_gallery\/cb13bb1d30222a78b21fbcb8be74c1eb.png",
+                    "alt": "Category image",
+                    "title": "Category image"
+                },
+                {
+                    "id": 2,
+                    "path": "site_content\/data\/lang_ar\/partiners_gallery\/8bf1d1b6f1a200430b8ab4e7e0b036bb.png",
+                    "alt": "Category image",
+                    "title": "Category image"
+                },
+                {
+                    "id": 3,
+                    "path": "site_content\/data\/lang_ar\/partiners_gallery\/9b60893baeb84b61729983ac2492c3c9.png",
+                    "alt": "Category image",
+                    "title": "Category image"
+                },
+                {
+                    "id": 4,
+                    "path": "site_content\/data\/lang_ar\/partiners_gallery\/81f987c9d0ff1f33db7406d848d7bd68.png",
+                    "alt": "1",
+                    "title": "1"
+                },
+                {
+                    "id": 5,
+                    "path": "site_content\/data\/lang_ar\/partiners_gallery\/97754999dc7228f1876e13bbefcc7636.png",
+                    "alt": "2",
+                    "title": "2"
+                },
+                {
+                    "id": 6,
+                    "path": "site_content\/data\/lang_ar\/partiners_gallery\/7332edc6d257d205894c30709141ada5.png",
+                    "alt": "3",
+                    "title": "3"
+                }
+            ],
+            "other_fields": {
+                "link": [
+                    "#",
+                    "#",
+                    "#",
+                    "1",
+                    "2",
+                    "3"
+                ]
+            }
+        }
+    }
+}

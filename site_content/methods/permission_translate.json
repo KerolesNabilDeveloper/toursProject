@@ -1,0 +1,17 @@
+{
+    "method_name": "permission_translate",
+    "method_requirments": {
+        "input_fields": {
+            "fields": [
+                "testimonials",
+                "booking"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

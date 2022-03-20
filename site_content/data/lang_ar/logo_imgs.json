@@ -1,0 +1,21 @@
+{
+    "content_json": {
+        "img_ids": {
+            "third_logo": {
+                "alt": "",
+                "title": "",
+                "path": ""
+            },
+            "main_logo": {
+                "alt": "",
+                "title": "",
+                "path": ""
+            },
+            "secondary_logo": {
+                "alt": "",
+                "title": "",
+                "path": "site_content\/data\/lang_ar\/logo_imgs\/e9f7b70221b834c51837059936caee2d.png"
+            }
+        }
+    }
+}

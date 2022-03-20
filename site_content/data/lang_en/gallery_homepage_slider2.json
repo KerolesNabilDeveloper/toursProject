@@ -1,0 +1,47 @@
+{
+    "content_json": {
+        "img_ids": [],
+        "slider1": {
+            "img_ids": [
+                {
+                    "id": 1,
+                    "path": "site_content\/data\/lang_en\/gallery_homepage_slider2\/f8edcd62b5ccd17bba386a2ae0a20b20.png",
+                    "alt": "Voluptatem aute perf",
+                    "title": "Officiis et aut labo"
+                },
+                {
+                    "id": 2,
+                    "path": "site_content\/data\/lang_en\/gallery_homepage_slider2\/036c739c38218253a41159eff6a3392d.png",
+                    "alt": "Labore ut accusantiu",
+                    "title": "Sit sequi labore sim"
+                },
+                {
+                    "id": 3,
+                    "path": "site_content\/data\/lang_en\/gallery_homepage_slider2\/2c45a0fe42c14b36ba9d340c1b7caa7e.png",
+                    "alt": "Aperiam et est harum",
+                    "title": "Sed sed voluptatem"
+                },
+                {
+                    "id": 4,
+                    "path": "site_content\/data\/lang_en\/gallery_homepage_slider2\/8ed831a904abf7cf46322338fdb0070b.png",
+                    "alt": "Rem et placeat tota",
+                    "title": "Recusandae Nulla of"
+                }
+            ],
+            "other_fields": {
+                "title": [
+                    "Quo id laboris expe",
+                    "Perferendis mollitia",
+                    "Tempora debitis vita",
+                    "Velit omnis est pers"
+                ],
+                "p": [
+                    "Provident adipisci",
+                    "Voluptas ipsam occae",
+                    "Illum similique cup",
+                    "Deleniti incidunt a"
+                ]
+            }
+        }
+    }
+}

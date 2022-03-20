@@ -1,0 +1,17 @@
+{
+    "method_name": "logo_and_icon",
+    "method_requirments": {
+        "imgs_fields": {
+            "fields": [
+                "icon",
+                "logo"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

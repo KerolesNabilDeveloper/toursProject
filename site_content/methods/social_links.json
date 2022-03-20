@@ -1,0 +1,34 @@
+{
+    "method_name": "social_links",
+    "method_requirments": {
+        "arr_fields": {
+            "fields": {
+                "social_link": [
+                    "title",
+                    "icon",
+                    "link"
+                ]
+            },
+            "customize": {
+                "social_link": {
+                    "label_name": {
+                        "title": "title",
+                        "icon": "icon",
+                        "link": "link"
+                    }
+                }
+            }
+        },
+        "input_fields": {
+            "fields": [
+                "social_link"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

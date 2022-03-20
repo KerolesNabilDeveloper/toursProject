@@ -1,0 +1,47 @@
+{
+    "content_json": {
+        "img_ids": [],
+        "slider1": {
+            "img_ids": [
+                {
+                    "id": 1,
+                    "path": "site_content\/data\/lang_ar\/gallery_homepage_slider2\/4ca8a25a2ff75b916c6351760a3476d6.png",
+                    "alt": "",
+                    "title": "img"
+                },
+                {
+                    "id": 2,
+                    "path": "site_content\/data\/lang_ar\/gallery_homepage_slider2\/1f94e9803613251218c1fa9390c5e56e.png",
+                    "alt": "img",
+                    "title": "img"
+                },
+                {
+                    "id": 3,
+                    "path": "site_content\/data\/lang_ar\/gallery_homepage_slider2\/fc61ff4d72d61868d65917d8749cc8d0.png",
+                    "alt": "img",
+                    "title": "img"
+                },
+                {
+                    "id": 4,
+                    "path": "site_content\/data\/lang_ar\/gallery_homepage_slider2\/180477989142619cba2782ad95d71f98.png",
+                    "alt": "img",
+                    "title": "img"
+                }
+            ],
+            "other_fields": {
+                "title": [
+                    "Private Transport",
+                    "Diverse Destinations",
+                    "Great Hotels",
+                    "Fast Booking"
+                ],
+                "p": [
+                    "Sponsorships are like unicorns or leprechauns, talked about often but they don’t exist. There is only dollars",
+                    "My response usually harsh. Offended at the that a career that’s taken more than a decade to create could be",
+                    "I have always made a living to make movies, never the other way around.I first I washed dishes in a seafood",
+                    "Aenean sed nibh a magna posuere tempor. Nunc faucibus nunc aliquet. Donec congue, nunc vel tempor"
+                ]
+            }
+        }
+    }
+}

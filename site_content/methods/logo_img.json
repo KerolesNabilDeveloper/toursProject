@@ -1,0 +1,16 @@
+{
+    "method_name": "logo_img",
+    "method_requirments": {
+        "input_fields": {
+            "fields": [
+                "logo"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

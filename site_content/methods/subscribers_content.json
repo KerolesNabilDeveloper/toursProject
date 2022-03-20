@@ -1,0 +1,16 @@
+{
+    "method_name": "subscribers_content",
+    "method_requirments": {
+        "input_fields": {
+            "fields": [
+                "we_received_your_request_successfully"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

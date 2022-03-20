@@ -1,0 +1,51 @@
+{
+    "content_json": {
+        "email": "Email",
+        "password": "Password",
+        "login": "Login",
+        "you_should_enter_your_full_name_as_3_names": "You Should Enter Your Full Name As 3 Names",
+        "are_your_sure": "Are Your Sure",
+        "yes": "Yes",
+        "no": "No",
+        "login_field_is_required": "Login Field Is Required",
+        "password_is_required": "Password Is Required",
+        "welcome": "Welcome",
+        "support": "Support",
+        "phone": "(+2) 0123 4567890",
+        "Reed_More": "Reed More",
+        "pageview": "page view",
+        "home": "home",
+        "description": "description",
+        "included": "Included",
+        "excluded": "Excluded",
+        "itinerary": "Itinerary",
+        "tourdetails": "Tour Details",
+        "startsfrom": "Starts From",
+        "startingfrom": "Starting From",
+        "about-au": "About AU",
+        "tour-duration": "Tour Duration *",
+        "Day": "Day",
+        "location": "Location",
+        "Newsletter": "News letter",
+        "Newsletter_title": "Sign up to receive the best offers",
+        "Subscribe": "Subscribe",
+        "booknow": "Book now",
+        "USD": "USD",
+        "relatedtours": "Related tours",
+        "BookingTrip": "BookingTrip",
+        "about-Us": "About-Us",
+        "SpecialOffer": "Special Offer",
+        "special_offer": "Special Offer",
+        "book_now": "Book Now",
+        "starting_from": "Starting From",
+        "news_letter": "News Letter",
+        "news_letter_title": "Sign up to receive the best offers",
+        "img_ids": {
+            "support_img": {
+                "alt": "",
+                "title": "",
+                "path": ""
+            }
+        }
+    }
+}

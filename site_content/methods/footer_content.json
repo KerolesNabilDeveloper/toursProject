@@ -1,0 +1,17 @@
+{
+    "method_name": "footer_content",
+    "method_requirments": {
+        "imgs_fields": {
+            "fields": [
+                "footer_area_img",
+                "img_logo"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

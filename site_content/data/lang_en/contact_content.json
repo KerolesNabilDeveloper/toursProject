@@ -1,0 +1,23 @@
+{
+    "content_json": {
+        "Contact_us": "Contact Us",
+        "get_in_touch!": "Get In Touch!",
+        "get_in_touch_body": "Vestibulum blandit viverra convallis. Pellentesque ligula urna, fermentum ut semper in, tincidunt nec dui. Morbi mauris lacus, consequat eget justo in",
+        "main_information": "Main Information",
+        "location": "Location",
+        "text_of_time_work": "Office Hour 9:00 to 7:00 Sunday 10:00 to 5:00",
+        "email": "Email",
+        "sell_phone": "Sell Phone",
+        "sell_phone_number": "(+2) 0123 456789",
+        "telephone": "Telephone",
+        "telephone_number": "(+2) 0123 456789",
+        "img_ids": {
+            "img_cover": {
+                "alt": "",
+                "title": "",
+                "path": ""
+            }
+        },
+        "we_received_your_request_successfully": "We Received Your Request Successfully"
+    }
+}

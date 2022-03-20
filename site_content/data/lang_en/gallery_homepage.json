@@ -1,0 +1,31 @@
+{
+    "content_json": {
+        "img_ids": [],
+        "slider1": {
+            "img_ids": [
+                {
+                    "id": 1,
+                    "path": "site_content\/data\/lang_en\/gallery_homepage\/7d5a4775306325261d0c9e09b90f02fc.jpg",
+                    "alt": "4",
+                    "title": "4"
+                },
+                {
+                    "id": 2,
+                    "path": "site_content\/data\/lang_en\/gallery_homepage\/0727bd7cd52f4e41a9d9d7b6ccd70848.jpg",
+                    "alt": "7",
+                    "title": "7"
+                }
+            ],
+            "other_fields": {
+                "slider_title": [
+                    "4",
+                    "7"
+                ],
+                "slider_alt": [
+                    "4",
+                    "7"
+                ]
+            }
+        }
+    }
+}

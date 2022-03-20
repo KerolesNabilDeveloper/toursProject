@@ -1,0 +1,44 @@
+{
+    "content_json": {
+        "img_ids": [],
+        "slider1": {
+            "img_ids": [
+                {
+                    "id": 1,
+                    "path": "site_content\/data\/lang_ar\/gallery_homepage\/7ba84cd00c667f676c3e9c80fd5bd0cf.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "id": 2,
+                    "path": "site_content\/data\/lang_ar\/gallery_homepage\/3c785fbd99f06065352400b24db4790f.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "id": 3,
+                    "path": "site_content\/data\/lang_ar\/gallery_homepage\/f383af9329235fc13b65995fd27c12ba.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "other_fields": {
+                "img_title": [
+                    "6",
+                    "5",
+                    "3"
+                ],
+                "slider_title": [
+                    "6",
+                    "5",
+                    "3"
+                ],
+                "slider_alt": [
+                    "6",
+                    "5",
+                    "3"
+                ]
+            }
+        }
+    }
+}

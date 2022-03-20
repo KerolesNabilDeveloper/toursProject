@@ -1,0 +1,27 @@
+{
+    "content_json": {
+        "users": "المستخدمين",
+        "transactions_log": "العمليات الحسابية",
+        "support_messages": "الدعم الفني",
+        "site_content": "محتوي الموقع",
+        "settings": "اﻻعدادات",
+        "reports": "التقارير",
+        "payment_methods": "وسائل الدفع",
+        "pages": "الصفحات",
+        "memberships": "العضويات المميرزة",
+        "languages": "اللغات",
+        "countries": "الدول",
+        "cities": "المدن",
+        "admins": "المديرين",
+        "can_edit_content": "Can Edit Content",
+        "can_edit_settings": "Can Edit Settings",
+        "manage_permissions": "Manage Permissions",
+        "comment_report_reasons": "Comment Report Reasons",
+        "blacklist_words": "Blacklist Words",
+        "cancellation_reasons": "Cancellation Reasons",
+        "auctions": "Auctions",
+        "deals": "Deals",
+        "categories": "Categories",
+        "article": "Article"
+    }
+}

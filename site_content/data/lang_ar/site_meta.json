@@ -1,0 +1,10 @@
+{
+    "content_json": {
+        "login_meta_title": "Login Meta Title",
+        "login_meta_desc": "Login Meta Desc",
+        "login_meta_keywords": "Login Meta Keywords",
+        "homepage_meta_title": "Homepage Meta Title",
+        "homepage_meta_desc": "Homepage Meta Desc",
+        "homepage_meta_keywords": "Homepage Meta Keywords"
+    }
+}

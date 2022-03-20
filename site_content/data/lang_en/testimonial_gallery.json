@@ -1,0 +1,44 @@
+{
+    "content_json": {
+        "img_ids": [],
+        "slider1": {
+            "img_ids": [
+                {
+                    "id": 1,
+                    "path": "site_content\/data\/lang_en\/testimonial_gallery\/b59ce5b68fa015efa2ed81feb1ae04f8.png",
+                    "alt": "Maiores quam quidem",
+                    "title": "Mollitia ea doloribu"
+                },
+                {
+                    "id": 2,
+                    "path": "site_content\/data\/lang_en\/testimonial_gallery\/114fbc5fbf4960974ae672ad5d6f87ac.png",
+                    "alt": "Aliquip eligendi ut",
+                    "title": "Ut asperiores non ei"
+                },
+                {
+                    "id": 3,
+                    "path": "site_content\/data\/lang_en\/testimonial_gallery\/553e6e254f68565f9f786d9e138faa83.png",
+                    "alt": "Non in aut do dolore",
+                    "title": "Sunt quis saepe lore"
+                }
+            ],
+            "other_fields": {
+                "text_content": [
+                    "Quia pariatur Sint",
+                    "Reprehenderit molest",
+                    "Dolore non ex accusa"
+                ],
+                "name": [
+                    "Soluta atque obcaeca",
+                    "Deserunt cumque even",
+                    "Eu molestiae iusto r"
+                ],
+                "title": [
+                    "Optio cillum esse i",
+                    "Sed et sit corrupti",
+                    "Aut quia labore unde"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "content_json": {
+        "tours": "Tours",
+        "categories": "Categories",
+        "article": "Article",
+        "admins": "Admins",
+        "manage_permissions": "Manage Permissions",
+        "languages": "Languages",
+        "pages": "Pages",
+        "itineraries": "Itineraries",
+        "testimonials": "Testimonials",
+        "booking": "Booking"
+    }
+}

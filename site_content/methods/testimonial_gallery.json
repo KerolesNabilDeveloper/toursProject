@@ -1,0 +1,25 @@
+{
+    "method_name": "testimonial_gallery",
+    "method_requirments": {
+        "slider_fields": {
+            "fields": [
+                "slider1"
+            ],
+            "customize": {
+                "slider1": {
+                    "label_name": "",
+                    "accept": "",
+                    "need_alt_title": "yes",
+                    "additional_inputs_arr": "text_content,name,title",
+                    "width": "",
+                    "height": ""
+                }
+            }
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "content_json": {
+        "img_ids": [],
+        "slider1": {
+            "img_ids": [
+                {
+                    "id": 1,
+                    "path": "site_content\/data\/lang_en\/partiners_gallery\/23e6de23dbac142e1a6744129225bc8d.png",
+                    "alt": "Quibusdam sequi nihi",
+                    "title": "Autem est ipsum par"
+                },
+                {
+                    "id": 2,
+                    "path": "site_content\/data\/lang_en\/partiners_gallery\/fc323ca9549218ca23f65b000cdd1746.png",
+                    "alt": "Est incidunt dicta",
+                    "title": "Eum illo consequatur"
+                },
+                {
+                    "id": 3,
+                    "path": "site_content\/data\/lang_en\/partiners_gallery\/e737ae7018db113f62adb2b8abd35dff.png",
+                    "alt": "Commodi ut fuga Qui",
+                    "title": "Dolor assumenda amet"
+                }
+            ],
+            "other_fields": {
+                "link": [
+                    "Voluptate nihil in f",
+                    "Dolores perferendis",
+                    "Asperiores ea ut dol"
+                ]
+            }
+        }
+    }
+}

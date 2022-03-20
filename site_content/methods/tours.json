@@ -1,0 +1,22 @@
+{
+    "method_name": "tours",
+    "method_requirments": {
+        "input_fields": {
+            "fields": [
+                "Tour List",
+                "Home",
+                "Book with confidence",
+                "Tours found",
+                "tour_list",
+                "tours_found",
+                "book_with_confidence"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}

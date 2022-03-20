@@ -1,0 +1,19 @@
+{
+    "method_name": "logo_imgs",
+    "method_requirments": {
+        "imgs_fields": {
+            "fields": [
+                "third_logo",
+                "main_logo",
+                "secondary_logo",
+                "main_icon"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}
