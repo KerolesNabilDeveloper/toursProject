@@ -42,13 +42,12 @@ class BookingController extends AdminBaseController
         return $this->returnView($request, "admin.subviews.booking.show");
     }
 
-    public function showData()
+    public function showData(Request $request)
     {
-
 
         $this->data["results"]=booking_m::getBookingById($_GET['booking_id']);
 
-
+        return $this->returnView($request, "admin.subviews.booking.showBookingData");
     }
 
 

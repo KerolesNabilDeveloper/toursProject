@@ -45,5 +45,26 @@ class booking_m extends Model
     }
 
 
+    public static function getBookingById($idBooking)
+    {
+        $idBooking=Vsi($idBooking);
+
+        $rows=\DB::select("
+        select 
+        booking.*, 
+        tours.*
+        from booking
+        inner join tours on booking.booking_tour_id=tours.id
+        where booking.booking_id= {$idBooking} and
+        tours.deleted_at is null 
+        
+        ");
+
+        return $rows[0];
+
+
+    }
+
+
 
 }

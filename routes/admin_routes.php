@@ -163,7 +163,7 @@ Route::group([
     #region booking
 
     Route::get('booking', 'BookingController@index');
-    //Route::get('booking/show_data/{booking_id?}', 'BookingController@showData')->where('booking_id', '([0-9]*)*');
+    Route::get('booking/show_data/{booking_id?}', 'BookingController@showData')->where('booking_id', '([0-9]*)*');
 
     #endregion
 

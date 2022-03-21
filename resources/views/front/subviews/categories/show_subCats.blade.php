@@ -4,8 +4,6 @@
 
     <!-- breadcrumb area start -->
 <?php $sum= count($getCats) ?>
-
-
     <div class="breadcrumb-area jarallax" style="background-image:url({{get_image_from_json_obj($parent_cats->cat_img_obj)}});">
         <div class="container">
             <div class="row">

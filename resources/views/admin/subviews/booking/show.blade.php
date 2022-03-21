@@ -46,12 +46,12 @@
                             {{$item->tour_title}}
 
                         </td>
-                       {{-- <td>
-                           <a class="btn btn-primary" href="{{langUrl('booking/show_data?booking_id='.$item->booking_id)}}" >
+                             <td>
+                           <a class="btn btn-primary" href="{{url('admin/booking/show_data?booking_id='.$item->booking_id)}}" >
                                show data
                            </a>
 
-                        </td>--}}
+                        </td>
 
                     </tr>
                     <?php endforeach ?>
