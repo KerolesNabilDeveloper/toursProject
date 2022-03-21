@@ -386,7 +386,7 @@ $(function () {
                     show_flash_message("error", data.error);
                 }
                 else {
-                    if (data.msg.length > 0) {
+                    if (data.msg !=undefined && data.msg.length > 0) {
                         show_flash_message("info", data.msg);
                         localStorage.setItem('flashMessage', data.msg);
                     }
