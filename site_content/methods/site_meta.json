@@ -1,0 +1,18 @@
+{
+    "method_name": "site_meta",
+    "method_requirments": {
+        "input_fields": {
+            "fields": [
+                "login_meta_title",
+                "login_meta_desc",
+                "login_meta_keywords"
+            ],
+            "customize": {}
+        }
+    },
+    "method_img": {
+        "alt": "",
+        "title": "",
+        "path": ""
+    }
+}
