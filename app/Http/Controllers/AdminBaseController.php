@@ -101,6 +101,8 @@ class AdminBaseController extends DashboardController
         $links["childs"]["categories"] = url("admin/categories");
         $links["childs"]["tours"] = url("admin/tours");
         $links["childs"]["pages"] = url("admin/pages");
+        $links["childs"]["contact"] = url("admin/contact");
+        $links["childs"]["booking"] = url("admin/booking");
 
 
         if (count($links["childs"]) == 0) {
